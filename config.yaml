@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Junior Guerra's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,6 +23,9 @@ languages:
   en:
     languageName: English
     weight: 1
+  es:
+    languageName: Spanish
+    weight: 2
   bn:
     languageName: বাংলা
     weight: 3
@@ -109,9 +112,9 @@ params:
       enable: false
       services:
         disqus:
-          shortName: toha-example-site
+          shortName: junocode.pro
         # valine:
-        #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
+        #   appId: HTV6askWxVo3vOxlqjjaq2had-MsYXbMMI
         #   appKey: pVrT3C85KGIuk27t07eh6bUC
         #   avatar: retro
         #   placeholder: Share your thought.
