@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2020 Copyright.
+# copyright: © 2020 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -25,8 +25,8 @@ openGraph:
   title: Juno's Blog
   type: website
   description: Portfolio and personal blog of Junior Guerra.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  image: images/author/juno.png
+  url: http://junocode.pro/
 
 # specify the title appearing on the navbar.
 navBarTitle: "Juno"

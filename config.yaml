@@ -62,9 +62,9 @@ params:
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/juno.png
+    inverted: /images/site/juno.png
+    favicon: /images/site/juno.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/JuniorGuerra/junocode.pro
@@ -290,4 +290,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
