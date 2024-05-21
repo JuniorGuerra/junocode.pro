@@ -2,7 +2,7 @@
 title: Sub-Category
 menu:
   sidebar:
-    name: উপ-বিভাগ
+    name: Kubernetes
     identifier: sub-category
     parent: category
     weight: 10

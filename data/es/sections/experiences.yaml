@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experiencias
   id: experiences
   enable: true
   weight: 3
@@ -12,62 +12,48 @@ section:
 experiences:
 - company:
     name:  Amaris Consulting.
-    url: "https://www.example.com"
+    url: "https://amaris.com/"
     location: Colombia
     logo: /images/sections/experiences/amaris.jpeg
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Amaris Consulting es una consultora tecnológica independiente que ofrece orientación y soluciones a las empresas.
   positions:
-  - designation: Experienced Consultant
+  - designation: Consultor experimentado
     start: Nov 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    end: Jan 2024
+    end: Ene 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Diseñar y desarrollar soluciones de software eficientes y escalables utilizando el lenguaje GO
+    - Implementar Apis REST aplicando buenas prácticas de diseño y programación
+    - Trabajar con Kubernetes para orquestar y gestionar contenedores, facilitando el despliegue y escalabilidad de microservicios
+    - Trabajar con Scrum. Era un marco ágil para gestionar proyectos, fomentando la colaboración, planificación y entrega continua de objetivos.
+    - __Tecnologías__. Go, Kubernetes, Scrum, DD, CI/CD, Git, GitLab
 
-  - designation: Consultant
-    start: Aug 2022
+  - designation: Consultor
+    start: Ago 2022
     end: Oct 2023
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Implementar y probar función de código para Falabella fif.
+    - Cliente de soporte para Falabella fif.
+    - Aprender Kubernetes, Docker para implementado.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darklogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Virtual Padlocks
+    url: "https://virtualpadlocks.com/"
+    location: Peru
+    logo: /images/sections/experiences/vp.svg
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Una empresa de desarrollo de software orientada al cliente.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Desarrollador FullStack 
+    start: Sep 2021
+    end: Aug 2022
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Contribuí significativamente al desarrollo y diseño de la plataforma
+    - Implemente soluciones para integrar y gestionar bases de datos críticas, incluyendo Redis, Mysql, MongoDB
+    - Despliegue en Google Cloud Platform utilizando Docker
+    - Tecnologías Go, Python, Docker, Scrum, Angular, Node, Git, Github, Redis, Mongo, Mysql

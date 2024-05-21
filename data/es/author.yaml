@@ -2,20 +2,19 @@
 name: "Junior Guerra"
 nickname: "JunoCode"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
-image: "images/author/john.png"
+greeting: "Hola, Soy"
+image: "images/author/juno.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "junior.guerra.dev@outlook.es"
   phone: "+573234574967"
   github: JuniorGuerra
   linkedin: juniorguerra17
-  # researchgate: john-doe
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - Soy desarrollador
+  - Soy Devops
+  - Me encantan los servidores
+  - Trabajo en proyectos de código abierto
+  - Me encanta trabajar con proyectos divertidos

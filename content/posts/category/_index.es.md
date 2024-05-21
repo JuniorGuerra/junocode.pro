@@ -2,7 +2,7 @@
 title: Top Category Sample
 menu:
   sidebar:
-    name: বিভাগ
+    name: Kubernetes 
     identifier: category
     weight: 20
 ---
