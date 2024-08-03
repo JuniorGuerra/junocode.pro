@@ -1,8 +1,8 @@
 # section information
 section:
-  name: Accomplishments
+  name: Logros
   id: accomplishments
-  enable: false
+  enable: true
   weight: 9
   showOnNavbar: true
   # Can optionally hide the title in sections
@@ -11,36 +11,36 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Introducción a AWS Identity and Access Management (IAM)
+  timeline: "Julio 2024"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: AWS Skill builder
+    url: https://skillbuilder.aws/
+  courseOverview: "Este curso está diseñado para brindarle una base sólida en AWS Identity and Access Management (IAM). Aprendi a administrar el acceso a los servicios y recursos de AWS de forma segura. También aprendi a crear y administrar usuarios, grupos y permisos en AWS."
+  certificateURL: "files/cert/120_3_4326825_1722351486_AWSCourseCompletionCertificate.pdf"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Kubernetes de 0 a Experto
+  timeline: "Apr 2024 - Jun 2024"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Udemy
+    url: https://udemy.com/
+  courseOverview: Este curso ofrece una descripción general de los contenedores y Kubernetes. Aprendi a implementar y administrar contenedores en Amazon Elastic Kubernetes Service (EKS). También aprendi a usar Amazon EKS para implementar, administrar y escalar aplicaciones en contenedores mediante Kubernetes.
+  certificateURL: "https://www.udemy.com/certificate/UC-216a0e0e-eda8-485e-bc59-2693d5d72ffd/"
 
 - name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+  timeline: "Ago 2024 - Ago 2024"
   organization:
     name: Udemy
     url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
+  courseOverview: Descubri cómo crear software responsivo y de alto rendimiento. Desarrolle programas con Golang que sean altamente concurrentes y paralelos. Mejore mis habilidades de programación en Go con temas más avanzados y de subprocesamiento múltiple.
   certificateURL: "https://example.com"
+ 
+- name: "AWS Foundations: Getting Started with the AWS Cloud Essentials"
+  timeline: "July 2024 - Ago 2024"
+  organization:
+    name: Udemy
+    url: https://skillbuilder.aws/
+  courseOverview: Este curso está diseñado para brindarte una base sólida en AWS Cloud Essentials. Aprendí sobre AWS Cloud y su infraestructura global. También aprendí sobre los principales servicios de AWS, la seguridad, la arquitectura, los precios y el soporte.
+  certificateURL: "files/cert/12596_3_4326825_1722455695_AWS Course Completion Certificate.pdf"
  
 

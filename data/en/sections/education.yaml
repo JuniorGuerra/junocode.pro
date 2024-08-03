@@ -45,10 +45,10 @@ degrees:
   # - title: Fusce eu augue ut odio porttitor pulvinar.
   #   url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Provide knowledge to my colleagues.
+  - Develop activities to help instructors who needed help with their tasks.
+  - Develop basic frameworks for Excel and create functionalities so that a hospital could efficiently rename its patients.
+  - Lead my colleagues in the development of many activities.
   custonSections: #(optional)
     - name: Grade Project
       content: A red social app developed with Java for the School
